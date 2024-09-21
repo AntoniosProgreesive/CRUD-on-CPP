@@ -1,4 +1,6 @@
-This is a CRUD (Create, Read, Update, Delete) system in C++ language, where records are stored in a file on disk.
+This is a CRUD (Create, Read, Update, Delete) system in C++ language, where records 
+are stored in a file on disk.
+This example covers basic CRUD operations by saving the data to a file.
 
 _______________________________________________________________________________________
 
@@ -15,7 +17,8 @@ Installation and Development Environment
     Windows: Use MinGW or install Visual Studio that includes the C++ compiler.
 
 
-    MacOS: Install Xcode via the App Store or only command line tools with the command:
+    MacOS: Install Xcode via the App Store or 
+    only command line tools with the command:
       bash
 
       Code:
@@ -23,7 +26,8 @@ Installation and Development Environment
 
 
 IDE option:
-  You can use an IDE such as Visual Studio Code, CLion, or Code::Blocks to write and run your code.
+  You can use an IDE such as Visual Studio Code, CLion, 
+  or Code::Blocks to write and run your code.
 
     Project Objectives:
       We will create a program that can:
